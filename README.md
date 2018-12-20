@@ -1,16 +1,17 @@
 # vim
-
+Primo modo:
 
 Clonare il repository nella cartella home
 ```
+$ cd ~
 $ git clone https://github.com/giacfuria/vim.git
+$ ln -s ~/vim/vimrc ~/.vimrc
 ```
-Oppure creare la cartella `vim` nella home directory
+Secondo modo:
+
+Creare la cartella `vim` nella home directory e copiarci dentro il file `vimrc`
 ```
+$ cd ~
 $ mkdir vim
-```
-e scaricare il file `vimrc` nella cartella `vim`.
-Infine, in entrambi i casi, creare il link con il vero file di configurazione
-```
 $ ln -s ~/vim/vimrc ~/.vimrc
 ```
