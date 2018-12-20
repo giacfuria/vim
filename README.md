@@ -5,9 +5,7 @@ $ cd ~
 $ git clone https://github.com/giacfuria/vim.git
 $ ln -s ~/vim/vimrc ~/.vimrc
 ```
-oppure:
-
-creare la cartella `vim` nella home directory e copiarci dentro il file `vimrc`
+oppure, creare la cartella `vim` nella home directory e copiarci dentro il file `vimrc`
 ```
 $ cd ~
 $ mkdir vim
