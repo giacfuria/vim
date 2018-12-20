@@ -1,7 +1,7 @@
 # vim
 
 
-clonare il repository nella cartella home
+Clonare il repository nella cartella home
 ```
 $ git clone https://github.com/giacfuria/vim.git
 ```
