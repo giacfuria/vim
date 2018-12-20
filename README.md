@@ -1,4 +1,6 @@
 # vim
+### Installazione su linux e macOS
+
 Clonare il repository nella cartella home
 ```
 $ cd ~
